@@ -1,0 +1,5 @@
+print("Hi ,This is my first code")
+print()
+print("HI")
+print('print("Shawon")')
+print(10)
