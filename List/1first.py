@@ -5,7 +5,7 @@ print(subject)
 # print(subject[n])
 
 print(subject[0])
-print(subject[2])
+print(subject[2:]) #from 2 index to last index print
 
 #print from reverse
 print(subject[-1])
