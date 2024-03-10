@@ -1,0 +1,2 @@
+1.Dictionaries are used to store data values in 'key' : value pairs
+They are unordered,mutable(changable) & do not allow duplicate value
