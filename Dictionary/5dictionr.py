@@ -1,8 +1,8 @@
-list = [3.71,3.63,3.71,3.91,3.76]
+list1 = [3.71,3.63,3.71,3.91,3.76]
 
 teacher = {
     'key' : 'Value',
-    'result' : list,
+    'result' : list1,
     'update' : {
         '6' : 4.00,
         '7' : 4.00,
@@ -13,5 +13,12 @@ teacher = {
 }
 
 print(teacher)
+#typecast
+print(list(teacher.values()))
+
+#items means output will be in pair
+print(teacher.items())
+#typecast
+print(list(teacher.items()))
 
 
