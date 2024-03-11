@@ -21,4 +21,8 @@ print(teacher.items())
 #typecast
 print(list(teacher.items()))
 
+#return the key according to value
+print(teacher.get('target'))
+print(teacher.get('update').get('6'))
+
 
