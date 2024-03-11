@@ -1,3 +1,4 @@
 1. unorder collection of item..
 2. can not access value using index..
 3. Not acceptable doublicate value..
+4. can not push list or dictionary inside the set..caz set is not changable  but list or dictionary is changable
