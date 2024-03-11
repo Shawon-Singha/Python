@@ -25,4 +25,18 @@ print(list(teacher.items()))
 print(teacher.get('target'))
 print(teacher.get('update').get('6'))
 
+#update the dictionary
+new_dic = {
+    'city' : 'Dhaka',
+    'age'  : 21,
+    'fav_place' : 'Slient Zone'
+}
+
+teacher.update(new_dic)
+print(teacher)
+
+#clear your dictionary
+teacher.clear()
+print(teacher)
+
 
