@@ -1,5 +1,5 @@
 def Sum(a,b):
-    sum1 = a +b
+    sum1 = a + b
     return sum1
 
 
