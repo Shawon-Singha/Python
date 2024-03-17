@@ -10,6 +10,6 @@ with open("6practice.txt","w") as b:
     b.write(new_data)
 
 if data.find("learning"):
-    print("Found")
+    print("Found") 
 
 
